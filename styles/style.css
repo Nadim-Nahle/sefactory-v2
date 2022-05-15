@@ -1,12 +1,13 @@
 .header{
     background-image: url(../pictures/background.png);
     color:white;
+    
 }
 .nav-link{
     color:white;
 }
 
-.col-sm-6{
+.col-sm-6 h3{
     margin-top: 25%;
     color:white;
 }
@@ -15,6 +16,7 @@
 }
 .col-sm-6 p{
     font-size: 25px;
+    color: white;
 }
 .logo{
     width:80px;
@@ -52,5 +54,38 @@ button{
         border: none;
         height: 2px;
         background: black;
-        margin-bottom: 50px;
+    }
+    .col-sm-6 h1{
+        color:black;
+        font-size: 50px;
+        align-items: center;   
+    }
+    .col-sm-6 h2{
+        color:black;
+        font-size: 25px;
+        align-items: center;   
+    }
+    .col-sm-6 h5{
+        color:black;
+        font-size: 25px;
+        align-items: center;   
+        font-weight: 450;
+        padding-top: 15px;
+        padding-left: 50px;
+    }
+    .image1{
+        max-width: 100%;
+        height: auto;
+    }
+    .section3{
+        padding-top: 6%;
+    }
+    .section2{
+        padding-top: 6%;
+    }
+    .learn-more{
+        color:#0d0;
+    }
+    .col-sm-6 h5 hr{
+        color:#0d0;
     }
