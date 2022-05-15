@@ -1,0 +1,39 @@
+.header{
+    background-image: url(../pictures/background.png);
+    color:white;
+}
+.nav-link{
+    color:white;
+}
+
+.col-sm-6{
+    margin-top: 25%;
+    color:white;
+}
+.col-sm-6 h3{
+    font-size: 50px;
+}
+.col-sm-6 p{
+    font-size: 25px;
+}
+.logo{
+    width:80px;
+    max-width: 100%;
+    max-height: 80%;
+    cursor:pointer;
+    margin-right: auto;
+    padding-top: 10px;
+}
+button{
+    background-color: #0d0;
+    border-radius: 5px;
+    border-bottom: 10px;
+    border-right: 10px;
+    padding: 3px 20px;
+    font-size: .9rem;
+    font-weight: bolder;
+    cursor:pointer;
+    color: white;
+    border-color:#0d0;
+    height: 39px;
+    }
