@@ -37,3 +37,20 @@ button{
     border-color:#0d0;
     height: 39px;
     }
+    .col-sm-4 h3{
+        color:#0d0;
+        font-size: 50px;
+        align-items: center;
+        
+    }
+    .col-sm-4 p{
+        font-size:25px;
+        align-items: center;
+    }
+    hr {
+        position: relative;
+        border: none;
+        height: 2px;
+        background: black;
+        margin-bottom: 50px;
+    }
