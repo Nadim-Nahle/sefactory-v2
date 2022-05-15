@@ -1,6 +1,7 @@
 .header{
     background-image: url(../pictures/background.png);
     color:white;
+    min-height: 140%;
     
 }
 .nav-link{
@@ -112,4 +113,10 @@ button{
     }
     .section8{
         background-color: #e6e6e6;
+    }
+    .section9{
+        padding-top: 5%;
+    }
+    .pad{
+        padding-top: 30%;
     }
