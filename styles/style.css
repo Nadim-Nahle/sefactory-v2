@@ -129,3 +129,15 @@ button{
         width:22%;
         padding-top: 2%;
     }
+    .section11{
+         background-color: #e6e6e6;
+         padding-top: 5%;
+    }
+    .subscribe{
+        color: white;
+        background-color: black;
+        border-color: black;
+        height: 32%;
+        font-size: 20px;
+        font-weight: 500;
+    }
