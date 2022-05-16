@@ -132,6 +132,7 @@ button{
     .section11{
          background-color: #e6e6e6;
          padding-top: 5%;
+         height:45%;
     }
     .subscribe{
         color: white;
@@ -140,4 +141,24 @@ button{
         height: 32%;
         font-size: 20px;
         font-weight: 500;
+        border-radius: 5px;
+        cursor: pointer;
+        }
+    .footer{
+        background-color: black;
+        color: #25e200;
+        min-height: 15%;
     }
+    .policy{
+        color:#25e200;
+        padding-top: 20%;
+    }
+    .green{
+        color: #25e200;
+    }
+    #menubar{
+        padding-top: 2%;
+    }
+    .navbar .navbar-nav>li>a {
+        padding-right: 30px;
+      }
